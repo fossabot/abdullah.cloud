@@ -2,7 +2,7 @@
   <p align="center">
     <a href="https://themes.gohugo.io/hugo-coder/">
       <img src="https://img.shields.io/badge/theme-hugo--coder-2b8cbe" alt="Hugo Theme Badge"">
-[![CodeQL](https://github.com/zer-far/abdullah-cloud/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/zer-far/abdullah-cloud/actions/workflows/codeql-analysis.yml)
+[CodeQL](https://github.com/zer-far/abdullah-cloud/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/zer-far/abdullah-cloud/actions/workflows/codeql-analysis.yml)
     </a>
     <a href="https://github.com/zer-far/abdullah-cloud/blob/master/LICENSE.txt">
       <img src="https://img.shields.io/github/license/zer-far/abdullah-cloud.svg" alt="MIT License Badge">
