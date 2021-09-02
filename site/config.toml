@@ -124,11 +124,6 @@ name = "Services"
 weight = 2
 url = "services/"
 
-# [[languages.en.menu.main]]
-# name = "Linux"
-# weight = 3
-# url = "linux/"
-
 [[languages.en.menu.main]]
 name = "Privacy Policy"
 weight = 3
