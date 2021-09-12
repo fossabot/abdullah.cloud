@@ -5,6 +5,7 @@ slug = "services"
 
 These are the services on this domain:  
 [Pictures of Mars](https://mars.abdullah.cloud)  
+[Jupiter](https://jupiter.abdullah.cloud)  
 [PGP Suite](https://pgp.abdullah.cloud)  
 [Mental Math tests](https://maths.abdullah.cloud)  
 [Calendar](https://calendar.abdullah.cloud)  
