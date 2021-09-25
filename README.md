@@ -20,7 +20,12 @@ A simple and clean blog theme for [Hugo](https://gohugo.io/).
 
 ![](https://github.com/luizdepra/hugo-coder/blob/master/images/screenshot.png)
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzer-far%2Fabdullah.cloud.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzer-far%2Fabdullah.cloud?ref=badge_large)
+
 ## Live Demo
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzer-far%2Fabdullah.cloud.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzer-far%2Fabdullah.cloud?ref=badge_shield)
+
 
 See [here](https://hugo-coder.netlify.app/).
 
